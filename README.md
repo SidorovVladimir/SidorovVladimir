@@ -23,6 +23,7 @@
 </p>
 
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/SidorovVladimir"><img src="https://github-readme-stats.vercel.app/api?username=SidorovVladimir&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="SidorovVladimir's GitHub stats" /></a>
 
 <a href="https://github.com/SidorovVladimir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidorovVladimir&layout=compact" /></a>
