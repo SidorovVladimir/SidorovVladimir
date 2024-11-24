@@ -3,7 +3,7 @@
  I have a genuine interest in development.
 
 [![codewars](https://www.codewars.com/users/DiabloBoom/badges/micro)](https://www.codewars.com/users/DiabloBoom)
-- 🌱 Frontend Developer.
+- 🌱 Fullstack Developer.
 
 - 🌍  I'm based in Russia, Novosibirsk
 
